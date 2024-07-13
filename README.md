@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teena Vithayathil</h1>
-<h3 align="center">Computer Science students looking forward to new experiences and meeting new people. I like to solve problems. .</h3>
+<h3 align="center">Computer Science student looking forward to new experiences and meeting new people. I enjoy solving complex problems and am now focusing on writing simple and effective code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teena-vithayathil&label=Profile%20views&color=0e75b6&style=flat" alt="teena-vithayathil" /> </p>
 
