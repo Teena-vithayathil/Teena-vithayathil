@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teena-vithayathil&label=Profile%20views&color=0e75b6&style=flat" alt="teena-vithayathil" /> </p>
 
-- 🔭 I’m currently working on [color analysis model](https://github.com/Teena-vithayathil/Color-analysis-model.git)
-
-- 🌱 I’m currently learning **react, aws , ai-ml**
-
-- 🤝 I’m looking for help with [color analysis model](https://github.com/Teena-vithayathil/Color-analysis-model.git)
-
-- 💬 Ask me about **django, vuejs**
-
-- 📫 How to reach me **teenavithayathil2003@gmail.com**
-
-- ⚡ Fun fact **I think I am good at googling**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/teenavithayath1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teenavithayath1" height="30" width="40" /></a>
