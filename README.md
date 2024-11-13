@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teenavithayath1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teenavithayath1" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/teena vithayathil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teena vithayathil" height="30" width="40" /></a>
-<a href="https://instagram.com/teena_vithayathil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teena_vithayathil" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/teenavithu2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="teenavithu2003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tn_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tn_a" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/teenavitrf6f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="teenavitrf6f" height="30" width="40" /></a>
